@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="confirm">Confirmacion</string>
+    <string name="remove">Eliminar</string>
+    <string name="confirm_message">Esta seguro que quiere eliminar \'%1$s\'?</string>
+    <string name="cannot_write">No se puede guardar el Item.</string>
+    <string name="cannot_read">No se a podido leer los items almacenados.</string>
+    <string name="clear_checked">Clear checked items</string>
+    <string name="clear_all">Clear all</string>
+    <string name="confirm_clear_all">Esta seguro de eliminar todos los items.</string>
+</resources>
